@@ -83,7 +83,7 @@ section {
 }
 
 span {
-    color: lightblue;
+    color:rgb(174, 165, 233);
 }
 
 .home-content h1 {
@@ -117,11 +117,11 @@ span {
 .btn {
    display: inline-block;
    padding: 1rem 2.8rem;
-   background: lightblue;
+   background:darkslateblue;
    border-radius: 4rem;
    box-shadow: 0 0 1rem transparent;
    font-size: 1.6rem;
-   color: var(--second-bg-color);
+   color:whitesmoke;
    letter-spacing: .1rem;
    font-weight: 600;
    transition: .5s ease;
@@ -153,5 +153,10 @@ span {
 .about-content p {
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+}
+.skills_title {
+    font-size: 4.6rem;
+    text-align: center;
+    
 }
 
